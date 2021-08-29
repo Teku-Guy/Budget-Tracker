@@ -18,8 +18,11 @@ app.use(express.static("public"));
 
 mongoose.connect(MONGODB_URI, {
   useNewUrlParser: true,
+  useUnifiedTopology: true
   //useFindAndModify: false  //this is throwing an error idk if its deprecated
 });
+mongoose.set('debug', true);
+
 
 // routes
 app.use(require("./routes/api.js"));
