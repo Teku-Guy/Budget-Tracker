@@ -32,7 +32,7 @@ This application is covered by the MIT license.
 Gustavo Muratalla
 
 ## Links
-[budget-tracker](https://budget-tracker-ag.herokuapp.com/)
+[budget-tracker](https://budget-tracker-67.herokuapp.com/)
 
 ## Questions
 U can always open a github issues prompt from our github repo<br />
