@@ -7,7 +7,7 @@ A Progressive Web Applications Challenge: Budget Tracker. This application allow
 ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
-  - [User Story](#User Story)
+  - [User Story](#User%20Story)
   - [License](#license)
   - [Links](#links)
   - [Contributing](#contributing)
