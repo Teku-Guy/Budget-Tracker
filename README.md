@@ -7,7 +7,7 @@ A Progressive Web Applications Challenge: Budget Tracker. This application allow
 ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
-  - [Usage](#usage)
+  - [User Story](#User Story)
   - [License](#license)
   - [Links](#links)
   - [Contributing](#contributing)
@@ -16,8 +16,7 @@ A Progressive Web Applications Challenge: Budget Tracker. This application allow
 ## Installtion
 clone repo then run `npm install` and `npm run start` to run local development server
 
-## Usage
-> ### User Story <br>
+##  User Story <br>
 > <hr>
 > AS AN avid traveler <br>
 > I WANT to be able to track my withdrawals and deposits with or without a data/internet connection <br>
