@@ -2,7 +2,7 @@
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 
 ## Description
-A Progressive Web Applications Challenge: Budget Tracker. This application allows a user to manage their bank account. The user needs to input their expenses either deposits or withdrawals. It serves as a visiual for the spending habits
+A Progressive Web Applications Challenge: Budget Tracker. This application allows a user to manage their bank account. The user needs to input their expenses either deposits or withdrawals. It serves as a visiual for the spending habits and works well offline.
 
 ## Table of Contents
   - [Description](#description)
