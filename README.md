@@ -1,6 +1,8 @@
 # Budget-Tracker
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 
+![img](https://github.com/teku-guy/portfolio-app/raw/main/src/assets/images/budget.png)
+
 ## Description
 A Progressive Web Applications Challenge: Budget Tracker. This application allows a user to manage their bank account. The user needs to input their expenses either deposits or withdrawals. It serves as a visiual for the spending habits and works well offline.
 
